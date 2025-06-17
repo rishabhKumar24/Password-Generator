@@ -1,7 +1,10 @@
 🔐 Password Generator
+------------------------
 A sleek and secure Password Generator made with HTML, CSS & JavaScript 💻. Instantly create strong passwords with options for uppercase ✅ lowercase 🔡 numbers 🔢 and special characters 💥 — all in a simple, responsive UI.
 
-✨ Features
+✨ Feature
+-----------------
+
 🎚️ Adjustable password length
 
 🔠 Toggle uppercase, lowercase, numbers & symbols
@@ -13,6 +16,7 @@ A sleek and secure Password Generator made with HTML, CSS & JavaScript 💻. Ins
 📱 Fully responsive for mobile & desktop
 
 🛠️ Tech Stack
+------------------
 🌐 HTML
 
 🎨 CSS
