@@ -23,4 +23,4 @@ A sleek and secure Password Generator made with HTML, CSS & JavaScript 💻. Ins
 ⚙️ JavaScript
 
 🚀 Live Demo
-🔗 [https://geturpass.netlify.app/]
+🔗 [https://lockbitz.vercel.app/]
